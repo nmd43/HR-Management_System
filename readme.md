@@ -1,6 +1,7 @@
 # HUMAN RESOURCE MANAGEMENT SOLUTION
 
 **Documentation**
+
 Documentation about the planning, design, and development processes are available in the documentation folder. A video product demo can also be found here.
 
 **Dependencies**
